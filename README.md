@@ -9,31 +9,6 @@ This is a Python-based **Password Complexity Checker** that evaluates the streng
 - 📂 **Common Password Detection**: Prevents the use of weak, commonly used passwords.
 - 🎨 **Streamlit UI**: Interactive web interface for easy use.
 
-## Installation
-Follow these steps to run the project locally:
-
-### 1️⃣ Clone the Repository
-```sh
- git clone https://github.com/asutoshpanda1611/Password-Complexity-Checker.git
- cd Password-Complexity-Checker
-```
-
-### 2️⃣ Install Dependencies
-Make sure you have Python installed, then run:
-```sh
-pip install -r requirements.txt
-```
-> If `requirements.txt` is not available, install manually:
-```sh
-pip install streamlit
-```
-
-### 3️⃣ Run the Application
-```sh
-streamlit run main.py
-```
-This will open a web-based UI in your browser.
-
 ## Usage
 ### **1️⃣ Check Password Strength**
 - Enter a password.
@@ -51,8 +26,3 @@ This will open a web-based UI in your browser.
  ├── 📄 README.md             # Project documentation
 ```
 
-## Contributing
-Feel free to submit pull requests or report issues!
-
-## License
-This project is open-source and free to use. 🚀
